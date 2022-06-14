@@ -4,7 +4,8 @@ This project hosts test data for [py4dgeo](https://github.com/ssciwr/py4dgeo).
 
 ## Available datasets
 
-* Bla
+* `plane_horizontal_t{1, 2}.xyz`: Artificial small scale test data for M3C2
+* `synthetic.zip`: An already built, synthetic example of a spatiotemporal analysis object
 
 ## Download
 
