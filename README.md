@@ -6,7 +6,8 @@ This project hosts test data for [py4dgeo](https://github.com/ssciwr/py4dgeo).
 
 * `plane_horizontal_t{1, 2}.xyz`: Artificial small scale test data for M3C2
 * `synthetic.zip`: An already built, synthetic example of a spatiotemporal analysis object
+* `testdata-labelling.csv`: Example data for labelling in PB-M3C2
 
 ## Download
 
-Data can be downloaded as [an archive](https://github.com/ssciwr/py4dgeo-test-data/releases/download/2022-06-14/data.tar.gz).
+Data can be downloaded as [an archive](https://github.com/ssciwr/py4dgeo-test-data/releases/download/2023-03-15/data.tar.gz).
