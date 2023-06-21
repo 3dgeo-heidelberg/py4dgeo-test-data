@@ -9,7 +9,9 @@ This project hosts test data for [py4dgeo](https://github.com/3dgeo-heidelberg/p
 * `synthetic.zip`: An already built, synthetic example of a spatiotemporal analysis object
 * `testdata-labelling{,2,correspondent-only}.csv`: Example data for labelling in PB-M3C2
 * `testdata-proximity-labelling.csv`: Example data for external produced similar regions in PB-M3C2
+* `ahk_*.laz`: Two point cloud epochs and corresponding core points for M3C2(-EP)
+* `Cxx.csv`, `redPoint.csv`, `sps.json`, `tfM.csv`: Supplementary files required by M3C2-EP
 
 ## Download
 
-Data can be downloaded as [an archive](https://github.com/ssciwr/py4dgeo-test-data/releases/download/2023-04-25/data.tar.gz).
+Data can be downloaded as [an archive](https://github.com/ssciwr/py4dgeo-test-data/releases/download/2023-06-21/data.tar.gz).
