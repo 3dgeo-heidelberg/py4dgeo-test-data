@@ -14,4 +14,4 @@ This project hosts test data for [py4dgeo](https://github.com/3dgeo-heidelberg/p
 
 ## Download
 
-Data can be downloaded as [an archive](https://github.com/ssciwr/py4dgeo-test-data/releases/download/2023-06-21/data.tar.gz).
+Data can be downloaded as an archive from [the releases page](https://github.com/3dgeo-heidelberg/py4dgeo-test-data).
