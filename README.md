@@ -11,6 +11,7 @@ This project hosts test data for [py4dgeo](https://github.com/3dgeo-heidelberg/p
 * `testdata-proximity-labelling.csv`: Example data for external produced similar regions in PB-M3C2
 * `ahk_*.laz`: Two point cloud epochs and corresponding core points for M3C2(-EP)
 * `Cxx.csv`, `redPoint.csv`, `sps.json`, `tfM.csv`: Supplementary files required by M3C2-EP
+* `trier_sim_epoch_*.laz`: Two simulated point cloud epochs for hierarchical change analysis
 
 ## Download
 
